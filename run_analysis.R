@@ -1,6 +1,6 @@
 
 #getwd()
-## to run set your own working directory
+## to run , set your own working directory
 ##setwd("C:\\Users\\Mahesha\\Desktop\\Desktop\\Data_Science\\Courseera\\Data-Cleaning\\Project")
 getwd()
 
